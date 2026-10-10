@@ -66,10 +66,14 @@
     font-weight: 500; 
 }
  p {
-    margin-top: 10px; 
-    color: black; 
-    font-size: 14px; 
+    margin-top: 6px; 
+    color: white; 
+    font-size: 20px; 
 } 
+#p2 {
+    color: white;
+    font-size: 16px;
+}
 a { 
     color: black; 
     text-decoration: none; 
